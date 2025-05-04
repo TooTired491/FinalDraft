@@ -88,8 +88,8 @@ color: #f7c387;
 .BelowMiss div {
 width: 349px;
 display: inline-block;
-padding: 5px;
-margin: 10px;
+padding: 10px;
+margin: 7px;
 text-align: center;
 align-items: center;
 }
@@ -103,8 +103,7 @@ word-spacing: 4px;
 border: 6px solid #b20303;
       }
 .history {
-background-color: #40a070
-  ;
+background-color: #40a070;
 font-size: 18px;
 word-spacing: 4px;
 border: 6px solid #002a1d;
