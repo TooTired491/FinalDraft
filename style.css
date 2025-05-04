@@ -108,7 +108,14 @@ background-color: #40a070
 font-size: 18px;
 word-spacing: 4px;
 border: 6px solid #002a1d;
-      }
+ }
+.hourslocation{
+background-color: #fdb70a;
+font-size: 60px;
+word-spacing: 4px;
+border: 6px solid #b20303;
+max-height: 300px;
+}
 /*Photos*/
 h2{
   font-size: 40px;
